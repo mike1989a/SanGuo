@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hit_jiatelin",
+    "texture": "154b3176-e0ac-4974-a812-d087d4320ed0",
+    "rect": [
+      2,
+      2,
+      124,
+      506
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      128,
+      512
+    ]
+  }
+}

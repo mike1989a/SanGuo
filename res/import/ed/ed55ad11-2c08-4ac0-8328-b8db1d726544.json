@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "man_1",
+    "texture": "61399b16-5fc1-4501-aa5b-e97458bd5895",
+    "rect": [
+      3,
+      2,
+      383,
+      34
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      393,
+      38
+    ]
+  }
+}

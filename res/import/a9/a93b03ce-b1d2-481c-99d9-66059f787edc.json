@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3wujiang1",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        89,
+        319,
+        98,
+        86
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        102,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3wujiang2",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        1,
+        417,
+        98,
+        90
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3wujiang3",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        1,
+        299,
+        102,
+        88
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        102,
+        102
+      ],
+      "rotated": 1
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zhujue2",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        99,
+        449,
+        30,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zhujue1",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        133,
+        483,
+        28,
+        34
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zhujue3",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        99,
+        483,
+        28,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ],
+      "rotated": 1
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_1",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        2,
+        782,
+        56,
+        48
+      ],
+      "offset": [
+        3,
+        -14
+      ],
+      "originalSize": [
+        90,
+        90
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_14",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        78,
+        230,
+        1,
+        1
+      ],
+      "offset": [
+        -44,
+        44
+      ],
+      "originalSize": [
+        90,
+        90
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_2",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        2,
+        230,
+        74,
+        72
+      ],
+      "offset": [
+        1,
+        -7
+      ],
+      "originalSize": [
+        90,
+        90
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_4",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        2,
+        90,
+        84,
+        76
+      ],
+      "offset": [
+        1,
+        -7
+      ],
+      "originalSize": [
+        90,
+        90
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_5",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        2,
+        304,
+        80,
+        72
+      ],
+      "offset": [
+        1,
+        -7
+      ],
+      "originalSize": [
+        90,
+        90
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dibiaohuoyan_3",
+      "texture": "7bc9ee6b-f61d-4823-ac49-2f838f8f3fb0",
+      "rect": [
+        2,
+        2,
+        86,
+        78
+      ],
+      "offset": [
+        1,
+        -6
+      ],
+      "originalSize": [
+        90,
+        90
+      ],
+      "rotated": 1
+    }
+  }
+]

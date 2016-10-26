@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hj_buffzhongdu.plist",
+  "_spriteFrames": {
+    "hj_buffzhongdu_1": {
+      "__uuid__": "82dd4f13-dbac-43b9-9d43-d2f52f8dfef1"
+    },
+    "hj_buffzhongdu_10": {
+      "__uuid__": "4aa14bbd-13a1-4a5f-914d-4cce417ce27e"
+    },
+    "hj_buffzhongdu_11": {
+      "__uuid__": "0917daec-899c-4fa0-8ef7-90bc82bc0064"
+    },
+    "hj_buffzhongdu_12": {
+      "__uuid__": "a84393c1-9e19-4e93-a220-1e8e5f2ef7a2"
+    },
+    "hj_buffzhongdu_13": {
+      "__uuid__": "d324d134-3e47-4777-aaab-6792c324793d"
+    },
+    "hj_buffzhongdu_14": {
+      "__uuid__": "de40e27e-3aad-4201-9804-e9a99a9c7de5"
+    },
+    "hj_buffzhongdu_15": {
+      "__uuid__": "d5b04c5d-e1d2-4c9a-acc7-1e631e2b60b7"
+    },
+    "hj_buffzhongdu_16": {
+      "__uuid__": "a0a5de46-6341-4247-bd64-b741f22c781c"
+    },
+    "hj_buffzhongdu_17": {
+      "__uuid__": "d90685e1-d985-420e-a641-616800ca19d7"
+    },
+    "hj_buffzhongdu_18": {
+      "__uuid__": "d429c2a6-7e56-4952-b7d5-66b58316d496"
+    },
+    "hj_buffzhongdu_19": {
+      "__uuid__": "830cb3c6-fb9e-49e1-a484-4cf01ab4d99f"
+    },
+    "hj_buffzhongdu_2": {
+      "__uuid__": "4ec50c2e-7d9f-41d7-b328-56d9624bd7a2"
+    },
+    "hj_buffzhongdu_20": {
+      "__uuid__": "85d17251-b73e-4c4a-9ab6-3c77241a6b9f"
+    },
+    "hj_buffzhongdu_21": {
+      "__uuid__": "cb72ad69-db01-4e91-8f6a-6b49fc73e634"
+    },
+    "hj_buffzhongdu_22": {
+      "__uuid__": "1c3f07a6-b03f-47c3-989a-72c5e33c24e1"
+    },
+    "hj_buffzhongdu_23": {
+      "__uuid__": "03fb7872-f482-4a52-b496-3f820d6ba7c6"
+    },
+    "hj_buffzhongdu_24": {
+      "__uuid__": "1821fdf8-4e78-42c2-bb5f-29cea728f73f"
+    },
+    "hj_buffzhongdu_25": {
+      "__uuid__": "3914325d-3232-4583-b7fe-8f4b37d91231"
+    },
+    "hj_buffzhongdu_26": {
+      "__uuid__": "0df635f4-66ca-4018-a20c-2120d75dbdda"
+    },
+    "hj_buffzhongdu_27": {
+      "__uuid__": "2149746c-fd2b-417d-8d7b-ce3cc2264d6b"
+    },
+    "hj_buffzhongdu_28": {
+      "__uuid__": "253cfa15-c640-4e71-897e-16092919cb4c"
+    },
+    "hj_buffzhongdu_29": {
+      "__uuid__": "56ed357d-f57d-4022-8d15-c524e2ce3c23"
+    },
+    "hj_buffzhongdu_3": {
+      "__uuid__": "0b7891f6-8eb9-4d91-8e9e-260ef8fde38b"
+    },
+    "hj_buffzhongdu_30": {
+      "__uuid__": "b717a683-a3d0-4525-95df-c34bf2ff44ad"
+    },
+    "hj_buffzhongdu_4": {
+      "__uuid__": "aa5df380-a42d-4bea-9af4-ceb2eae455c1"
+    },
+    "hj_buffzhongdu_5": {
+      "__uuid__": "7fce0a59-2898-4ddb-ac59-80910f4f30b9"
+    },
+    "hj_buffzhongdu_6": {
+      "__uuid__": "1601fd6b-73b1-471b-8e91-e0a755ca043d"
+    },
+    "hj_buffzhongdu_7": {
+      "__uuid__": "51949286-12b5-4265-8bdc-ed997d64a9ba"
+    },
+    "hj_buffzhongdu_8": {
+      "__uuid__": "3c4d7668-823f-45c6-9aea-819e17361037"
+    },
+    "hj_buffzhongdu_9": {
+      "__uuid__": "1c1d135c-ce92-4158-ba8f-742554a6b505"
+    }
+  }
+}

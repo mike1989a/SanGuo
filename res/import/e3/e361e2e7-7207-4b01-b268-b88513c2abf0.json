@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hj_buffzhongdu",
+    "texture": "3ad03f6f-bf1e-440b-8323-e64b7bb65684",
+    "rect": [
+      16,
+      4,
+      1324,
+      927
+    ],
+    "offset": [
+      7,
+      1.5
+    ],
+    "originalSize": [
+      1342,
+      938
+    ]
+  }
+}

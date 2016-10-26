@@ -1,0 +1,254 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_2",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        36,
+        434,
+        26,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_3",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        36,
+        398,
+        26,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_1",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        36,
+        542,
+        26,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_5",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        1058,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_6",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        1028,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_4",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        1088,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_8",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        968,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_10",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        36,
+        506,
+        26,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_7",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        998,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_12",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        36,
+        470,
+        26,
+        34
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_9",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        2,
+        938,
+        34,
+        28
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "man_4_11",
+      "texture": "5a0e04cf-8e11-4b2e-9877-973a511711c5",
+      "rect": [
+        38,
+        2,
+        24,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  }
+]

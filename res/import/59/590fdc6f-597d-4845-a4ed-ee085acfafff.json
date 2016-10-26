@@ -1,0 +1,65 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "2wujiang1",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        1,
+        1,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "2wujiang2",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        1,
+        101,
+        98,
+        98
+      ],
+      "offset": [
+        1,
+        -1
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "2wujiang3",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        1,
+        199,
+        94,
+        100
+      ],
+      "offset": [
+        2,
+        0
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  }
+]

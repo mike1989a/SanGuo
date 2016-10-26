@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "1meizi",
+  "_duration": 0.18333333333333332,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cab4cc18-fdbd-43a1-9d09-43718c4d5ef4"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "c4126e79-7c7a-4c1c-a6b1-c298dd671398"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "616d5228-2a3f-4dbe-95be-5ae5913f8e60"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  }
+}

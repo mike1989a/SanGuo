@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1meizi1",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        133,
+        417,
+        32,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1meizi2",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        129,
+        449,
+        30,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1meizi3",
+      "texture": "501116a0-d3bb-47f0-aa12-035ef243e2b9",
+      "rect": [
+        99,
+        417,
+        32,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ],
+      "rotated": 1
+    }
+  }
+]
