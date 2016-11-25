@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"dipi_attack_effect","_duration":0.15,"sample":20,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"855d28f5-4d50-4cb8-b8a7-31e086a857c9"}},{"frame":0.05,"value":{"__uuid__":"c9aa3331-52f6-4579-aed8-eb792da64f9a"}},{"frame":0.1,"value":{"__uuid__":"11a7acad-3deb-4285-b223-d19e7ff247f6"}}]}}}}

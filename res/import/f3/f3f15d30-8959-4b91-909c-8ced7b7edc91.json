@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"liukou_attack_effect","_duration":0.15,"sample":20,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"d6966084-3d10-4834-8a33-f0121965806d"}},{"frame":0.05,"value":{"__uuid__":"275594c4-bcd5-4569-9015-c890f82cbc87"}},{"frame":0.1,"value":{"__uuid__":"9ae04a4d-90ed-4b6b-9414-ab55c5410567"}}]}}}}
